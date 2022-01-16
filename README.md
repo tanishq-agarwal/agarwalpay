@@ -1,5 +1,5 @@
 # AgarwalPay
-> This project is build to tell you how to digitally pay/transfer the money from one account to another using a digital device such as mobile phone, computer, , a digital channel communications such as mobile wireless data or SWIFT.
+> This project is build to tell you how to digitally pay/transfer the money from one account to another using a digital device such as mobile phone, computer, , a digital channel communications such as mobile wireless data or SWIFT.<br>
 > Live demo [_here_](https://agarwalpay-6ef46.web.app/). 
 
 ## Table of Contents
@@ -18,7 +18,7 @@
 - Firebase
 
 ## Screenshots
-![Example screenshot](./public/images.Screenshot.png)
+![Example screenshot](./public/images/Screenshot.png)
 
 
 ## Setup
