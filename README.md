@@ -18,7 +18,7 @@
 - Firebase
 
 ## Screenshots
-![Example screenshot](./public/images/Screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/56082750/149656216-2d2d002e-3063-42ce-a6e4-406a9ebb5927.png)
 
 
 ## Setup
