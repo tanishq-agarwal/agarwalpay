@@ -25,7 +25,7 @@ const Contact = () => {
         const { firstName, lastName, phone, email, address, message, checked } = userData;
 
         if (firstName && lastName && phone && email && address && message && checked) {
-            const res = await fetch('https://agarwalpay-6ef46-default-rtdb.firebaseio.com/userDataRecords.json',
+            const res = await fetch('https://agarwalpay-1a231-default-rtdb.firebaseio.com/userDataRecords.json',
                 {
                     method: "POST",
                     headers: {
