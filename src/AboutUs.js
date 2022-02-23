@@ -6,9 +6,9 @@ const AboutUs = () => {
     
     return (
         <>
-            <section className="common-section our-services our-services-leftside" data-aos="fade-right">
+            <section className="common-section our-services our-services-leftside">
                 <div className="container mb-5" >
-                    <div className="row">
+                    <div className="row" data-aos="fade-right">
                         <div className="col-12 col-lg-5 text-center">
                             <img src="./images/hero3.jpg" alt="aboutUsImg" />
                         </div>
@@ -45,9 +45,9 @@ const AboutUs = () => {
 
             {/* 2nd part of about us section  */}
 
-            <section className="common-section our-services our-services-rightside" data-aos="zoom-in-left">
+            <section className="common-section our-services our-services-rightside">
                 <div className="container mb-5">
-                    <div className="row">
+                    <div className="row" data-aos="zoom-in-right">
 
                         {/* 1section right side data  */}
                         <div className="col-12 col-lg-7 our-services-rightside-content d-flex justify-content-center align-items-start flex-column">
